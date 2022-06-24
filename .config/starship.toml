@@ -1,0 +1,6 @@
+format = "$all$directory$character"
+
+add_newline = false
+
+[python]
+disabled = true

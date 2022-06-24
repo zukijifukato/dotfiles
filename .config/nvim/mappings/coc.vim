@@ -1,0 +1,6 @@
+nnoremap <silent><leader>cac <Plug>(coc-codeaction)
+nnoremap <silent><leader>cfc <Plug>(coc-fix-current)
+nnoremap <silent><leader>gd <Plug>(coc-definition)
+nnoremap <silent><leader>gy <Plug>(coc-type-definition)
+nnoremap <silent><leader>gr <Plug>(coc-references)
+nnoremap <silent><leader>rn <Plug>(coc-rename)
