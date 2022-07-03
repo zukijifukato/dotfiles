@@ -1,4 +1,10 @@
-export PATH="$PATH:$HOME/.local/bin"
+force_color_prompt=yes
+alias ls="ls --color=auto"
+alias ll="ls -alF --color=auto"
+alias la="ls -A --color=auto"
+alias l="ls -CF --color=auto"
+
+export PATH="$PATH:/home/bl4ck/.local/bin"
 export CHROME_EXECUTABLE="/usr/bin/google-chrome-stable"
 
 # fzf
